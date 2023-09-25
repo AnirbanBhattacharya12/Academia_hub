@@ -46,9 +46,9 @@ const Landing = () => {
           <div onClick={() => {
             handleDialogOpen();
 
-          }} className=" cursor-pointer  bg-primary mt-20 rounded-3xl p-5 w-2/4 md:w-2/3 hover:bg-purple-600">
+          }} className=" cursor-pointer bg-primary mt-20 rounded-3xl p-5 w-2/4 md:w-2/3 hover:bg-purple-600">
             <p className="text-center text-lg text-white font-semibold  ">
-              Get Started
+              Get Startet
             </p>
           </div>
         </div>
